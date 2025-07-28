@@ -43,6 +43,15 @@ If `Hreg 0 = 30` and `Hreg 1 = 75`, then the displayed temperature is **30.75 °
 
 The temperature data is displayed in real-time within the ScadaBR interface, as shown in the image above. ScadaBR is configured to poll the ESP8266 using Modbus TCP and map the registers into graphical widgets or digital displays.
 
-## 📃 License
+<div align="center">
 
-This project is licensed under the **MIT License**. You are free to use, modify, and distribute it for personal or commercial purposes.
+## 📬 Need a Similar Project? Let's Collaborate!
+If you need a **custom IoT project** for **smart home, agriculture, industrial monitoring**, or other use cases,  
+I’m ready to assist you!  
+
+📧 **Reach out at:**  
+### andreas.sebayang9999@gmail.com  
+
+Let’s create something amazing together! 🚀
+
+</div>
